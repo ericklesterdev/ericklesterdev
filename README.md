@@ -84,7 +84,7 @@ Production-grade multi-module Android architecture with composition-first app sh
 isolation, and scalable module boundaries.
 
 **[spendpath-android](https://github.com/ericklesterdev/spendpath-android)**
-Offline-first expense tracker built with Jetpack Compose, Room, Coroutines, and MVVM.
+Offline-first expense tracker built with Google's recommended modern architecture in mind.
 
 ---
 

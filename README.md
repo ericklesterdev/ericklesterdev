@@ -6,10 +6,11 @@
 
 ### About
 
-I architect and ship Android applications and modular SDKs at scale. My work spans
-multi-module SDK platforms, consumer-facing apps, and developer tooling. I care about
-clean architecture, testability, and building systems that teams can maintain and
-extend over time.
+I build Android applications at scale — from consumer apps with 500K–1M+ installs to
+modular SDKs and feature-rich banking platforms in regulated environments. I've led Android
+teams, mentored engineers, and driven architecture decisions across the full product
+lifecycle. I actively leverage AI-assisted development to improve productivity while
+maintaining full ownership of design decisions and code quality.
 
 ---
 
@@ -26,20 +27,25 @@ extend over time.
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white)
 ![Material 3](https://img.shields.io/badge/Material_3-757575?style=flat&logo=materialdesign&logoColor=white)
 ![MVVM](https://img.shields.io/badge/MVVM-blue?style=flat)
+![MVI](https://img.shields.io/badge/MVI-blue?style=flat)
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-009688?style=flat)
 ![Multi--Module](https://img.shields.io/badge/Multi--Module-FF6F00?style=flat)
 
 **Core Libraries**
 
 ![Coroutines](https://img.shields.io/badge/Coroutines-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Flow](https://img.shields.io/badge/Flow-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![Room](https://img.shields.io/badge/Room-3DDC84?style=flat&logo=android&logoColor=white)
 ![Retrofit](https://img.shields.io/badge/Retrofit-48B983?style=flat)
-![Dagger](https://img.shields.io/badge/Dagger_2-FF6F00?style=flat)
+![OkHttp](https://img.shields.io/badge/OkHttp-48B983?style=flat)
+![Dagger / Hilt](https://img.shields.io/badge/Dagger%20%2F%20Hilt-FF6F00?style=flat)
 ![ExoPlayer](https://img.shields.io/badge/Media3%2FExoPlayer-4285F4?style=flat)
+![RxJava](https://img.shields.io/badge/RxJava-B7178C?style=flat)
 
 **Testing & CI**
 
-![JUnit 5](https://img.shields.io/badge/JUnit_5-25A162?style=flat&logo=junit5&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-78A641?style=flat)
 ![MockK](https://img.shields.io/badge/MockK-FF6F00?style=flat)
 ![Espresso](https://img.shields.io/badge/Espresso-3DDC84?style=flat)
 ![JaCoCo](https://img.shields.io/badge/JaCoCo-C71A36?style=flat)
@@ -49,17 +55,25 @@ extend over time.
 
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=firebase&logoColor=white)
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat&logo=sentry&logoColor=white)
+![New Relic](https://img.shields.io/badge/New_Relic-008C99?style=flat&logo=newrelic&logoColor=white)
 ![Instana](https://img.shields.io/badge/Instana-0069FF?style=flat)
+
+**Integrations**
+
+![OAuth / JWT](https://img.shields.io/badge/OAuth%20%2F%20JWT-000000?style=flat)
+![FCM](https://img.shields.io/badge/FCM-DD2C00?style=flat&logo=firebase&logoColor=white)
+![In--App Billing](https://img.shields.io/badge/In--App_Billing-3DDC84?style=flat)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat&logo=webrtc&logoColor=white)
 
 ---
 
-### Currently Exploring
+### Beyond the Day Job
 
-- **AI-assisted development** — Building custom agents and automation tooling to accelerate
-  code generation, architecture audits, and review workflows
-- **Kotlin Multiplatform** — Evaluating shared business logic across Android and iOS
-- **Compose Multiplatform** — Cross-platform UI beyond Android
-- **Convention plugins** — Scalable build logic with Gradle Kotlin DSL
+I'm a continuous learner — always exploring emerging tools, patterns, and platforms to
+stay ahead of the curve. Whether it's experimenting with AI-assisted development workflows,
+cross-platform frameworks, or better build tooling, I'm driven by curiosity and a desire
+to keep improving how I build software.
 
 ---
 
@@ -76,12 +90,14 @@ Offline-first expense tracker built with Jetpack Compose, Room, Coroutines, and 
 
 ### What I Bring to a Team
 
-- **SDK & library design** — Multi-module SDKs with versioned publishing, consumer rules,
-  and clean API surfaces
-- **Codebase modernization** — Migrating legacy stacks to modern Android architecture
-  without disrupting production
-- **Testing culture** — Unit, integration, and UI testing with coverage tracking and CI
-  enforcement
+- **End-to-end ownership** — Requirements analysis through production release, including
+  API design collaboration and Figma-to-code translation
+- **Architecture at scale** — Multi-module apps and SDKs with clean boundaries, versioned
+  publishing, and long-term maintainability
+- **Team leadership** — Led Android teams, mentored engineers, and established testing and
+  code review practices
+- **Regulated environments** — Delivered features in banking and fintech with security,
+  accessibility, and compliance requirements
 - **AI-augmented workflows** — Leveraging AI tooling to ship faster with higher consistency
 
 ---

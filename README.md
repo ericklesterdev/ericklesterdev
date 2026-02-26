@@ -6,11 +6,10 @@
 
 ### About
 
-I architect and ship Android applications and modular SDKs at scale — from multi-module
-SDK platforms consumed by partner apps, to consumer-facing apps serving millions of users
-across 14+ localized markets. Currently driving a large-scale codebase modernization:
-migrating a legacy MVP/RxJava/Dagger stack to Jetpack Compose, Coroutines, and MVVM using
-AI-assisted automation I built myself.
+I architect and ship Android applications and modular SDKs at scale. My work spans
+multi-module SDK platforms, consumer-facing apps, and developer tooling. I care about
+clean architecture, testability, and building systems that teams can maintain and
+extend over time.
 
 ---
 
@@ -56,9 +55,8 @@ AI-assisted automation I built myself.
 
 ### Currently Exploring
 
-- **AI-assisted development** — Built custom Claude Code agents and skills that automate
-  ~60% of migration work: code generation, architecture audits, compliance checks, and
-  multi-gate review protocols
+- **AI-assisted development** — Building custom agents and automation tooling to accelerate
+  code generation, architecture audits, and review workflows
 - **Kotlin Multiplatform** — Evaluating shared business logic across Android and iOS
 - **Compose Multiplatform** — Cross-platform UI beyond Android
 - **Convention plugins** — Scalable build logic with Gradle Kotlin DSL
@@ -69,25 +67,22 @@ AI-assisted automation I built myself.
 
 **[android-app-shell-architecture](https://github.com/ericklesterdev/android-app-shell-architecture)**
 Production-grade multi-module Android architecture with composition-first app shell, feature
-isolation, and scalable module boundaries. Demonstrates how large teams structure long-lived
-codebases.
+isolation, and scalable module boundaries.
 
 **[spendpath-android](https://github.com/ericklesterdev/spendpath-android)**
 Offline-first expense tracker built with Jetpack Compose, Room, Coroutines, and MVVM.
-Demonstrates modern Android architecture with local-first data strategy.
 
 ---
 
 ### What I Bring to a Team
 
-- **SDK architecture** — Designed and shipped a 12-module Android SDK with versioned AAR
-  publishing, partner-facing wrappers, and ProGuard consumer rules
-- **Large-scale modernization** — Leading migration of a production codebase from
-  MVP/RxJava/Dagger/XML to Compose/Coroutines/MVVM with zero downtime
-- **Multi-market experience** — Auth integrations across Google, Facebook, Line, Kakao,
-  and Microsoft MSAL for apps serving global markets
-- **AI-augmented engineering** — Building tooling that makes migration faster and more
-  reliable, not just writing code manually
+- **SDK & library design** — Multi-module SDKs with versioned publishing, consumer rules,
+  and clean API surfaces
+- **Codebase modernization** — Migrating legacy stacks to modern Android architecture
+  without disrupting production
+- **Testing culture** — Unit, integration, and UI testing with coverage tracking and CI
+  enforcement
+- **AI-augmented workflows** — Leveraging AI tooling to ship faster with higher consistency
 
 ---
 

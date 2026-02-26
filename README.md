@@ -88,20 +88,6 @@ Offline-first expense tracker built with Google's recommended modern architectur
 
 ---
 
-### What I Bring to a Team
-
-- **End-to-end ownership** — Requirements analysis through production release, including
-  API design collaboration and Figma-to-code translation
-- **Architecture at scale** — Multi-module apps and SDKs with clean boundaries, versioned
-  publishing, and long-term maintainability
-- **Team leadership** — Led Android teams, mentored engineers, and established testing and
-  code review practices
-- **Regulated environments** — Delivered features in banking and fintech with security,
-  accessibility, and compliance requirements
-- **AI-augmented workflows** — Leveraging AI tooling to ship faster with higher consistency
-
----
-
 ### Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ericksumugat)
